@@ -227,7 +227,7 @@ display: none;
         .footer-links li:hover .dropdown2{
             position: absolute;
             right:113px;
-            top:6490px; 
+            top:6580px; 
             display: flex;
             flex-direction: column;
         }
